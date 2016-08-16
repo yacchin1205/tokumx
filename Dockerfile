@@ -1,4 +1,4 @@
-FROM dockerfile/ubuntu
+FROM ubuntu:14.04
 MAINTAINER Ankur Chauhan  <ankur@malloc64.com>
 
 # Install TokuMX
